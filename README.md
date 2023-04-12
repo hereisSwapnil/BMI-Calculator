@@ -1,6 +1,11 @@
 # BMI Calculator
 It is a BMI Calculator App that calculates the BMI of a person based on the value of height and weight the user has inputted.
 
+## Live Preview
+
+[Download Now](https://github.com/Swapnil-Singh-99/BMI-Calculator/blob/main/assests/BMI%20Calculator.apk?raw=true)
+
+
 ## Screenshots
 
 <table>
