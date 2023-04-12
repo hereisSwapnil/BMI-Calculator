@@ -1,16 +1,18 @@
-# bmi_calculator
+# BMI Calculator
+It is a BMI Calculator App that calculates the BMI of a person based on the value of height and weight the user has inputted.
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+<table>
+  <tr>
+    <td><img src="https://github.com/Swapnil-Singh-99/BMI-Calculator/blob/main/assests/underweight.png?raw=true"></td>
+    <td><img src="https://github.com/Swapnil-Singh-99/BMI-Calculator/blob/main/assests/normalweight.png?raw=true"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Swapnil-Singh-99/BMI-Calculator/blob/main/assests/overweight.png?raw=true"></td>
+    <td><img src="https://github.com/Swapnil-Singh-99/BMI-Calculator/blob/main/assests/obese.png?raw=true"></td>
+  </tr>
+</table>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnilsingh99/)
