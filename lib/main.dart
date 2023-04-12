@@ -75,9 +75,9 @@ class _MyAppState extends State<MyApp> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              const Text(
-                "Height (cm)",
-                style: TextStyle(fontSize: 18),
+              Text(
+                "Height (cm): ${height.round()}",
+                style: const TextStyle(fontSize: 18),
               ),
               const SizedBox(height: 8),
               Slider(
@@ -92,9 +92,9 @@ class _MyAppState extends State<MyApp> {
                 label: height.round().toString(),
               ),
               const SizedBox(height: 16),
-              const Text(
-                "Weight (kg)",
-                style: TextStyle(fontSize: 18),
+              Text(
+                "Weight (kg): ${weight.round()}",
+                style: const TextStyle(fontSize: 18),
               ),
               const SizedBox(height: 8),
               Slider(
